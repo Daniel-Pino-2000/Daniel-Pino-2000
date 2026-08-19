@@ -28,13 +28,7 @@ Currently tutoring programming fundamentals, algorithms, and data structures at 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Featured projects
+## Projects
 
-| Project | Stack | |
-|---|---|---|
-| **[Tadu](https://github.com/Daniel-Pino-2000/Task-Tudu)** | Kotlin, Jetpack Compose, WorkManager | Android task manager with Firebase auth/sync and scheduled reminders |
-| **[FastFinder](https://github.com/Daniel-Pino-2000/FastFinder)** | Kotlin, Coroutines, SQLite/Room | Windows file/folder search tool with background indexing and concurrent search |
-| **[FileSharingApp](https://github.com/Daniel-Pino-2000/FileSharingApp)** | Python, Google Drive API | Batch file sharing with OAuth, progress tracking, and folder navigation |
-| **[Minesweeper](https://github.com/Daniel-Pino-2000/Minesweeper)** | Python, Pygame | Fully playable Minesweeper clone with configurable difficulty |
-
-More detail on each, plus my full resume, is on my **[portfolio site](https://portfolio-site-psi-sand.vercel.app/)**.
+Pinned below ↓ — full write-ups, tech stacks, and my résumé are on my
+**[portfolio site](https://portfolio-site-psi-sand.vercel.app/)**.
