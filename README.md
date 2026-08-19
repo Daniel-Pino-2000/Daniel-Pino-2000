@@ -37,10 +37,4 @@ Currently tutoring programming fundamentals, algorithms, and data structures at 
 | **[FileSharingApp](https://github.com/Daniel-Pino-2000/FileSharingApp)** | Python, Google Drive API | Batch file sharing with OAuth, progress tracking, and folder navigation |
 | **[Minesweeper](https://github.com/Daniel-Pino-2000/Minesweeper)** | Python, Pygame | Fully playable Minesweeper clone with configurable difficulty |
 
-More detail on each, plus my full résumé, is on my **[portfolio site](https://portfolio-site-psi-sand.vercel.app/)**.
-
-<div align="center">
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Pino-2000&show_icons=true&theme=default&hide_title=true&hide_border=true)
-
-</div>
+More detail on each, plus my full resume, is on my **[portfolio site](https://portfolio-site-psi-sand.vercel.app/)**.
