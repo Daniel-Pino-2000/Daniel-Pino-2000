@@ -15,6 +15,7 @@ Kotlin · Jetpack Compose · Ktor · TypeScript · Python
 ## About
 
 - 🎓 B.S. in Computer Science, Florida International University (August 2026), Magna Cum Laude, GPA 3.8
+- 📜 Certifications: OutSystems Associate Developer (ODC), February 2026, and Professional Communications from Southwest Airlines, June 2026
 - 📱 I build and ship complete products: Android apps in Kotlin and Jetpack Compose, the backends behind them, and full-stack web apps
 - 🤖 I've shipped LLM features to real users, with versioned prompts, an evaluation harness and safety checks
 - 🌎 Fluent in English and Spanish, based in Homestead, FL, and open to software engineering roles
